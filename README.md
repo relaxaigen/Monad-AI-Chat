@@ -1,4 +1,4 @@
-# Monad AI Chat 🚀
+# Monad AI Chat 
 
 A modern, animated AI chat application built on Monad testnet with advanced AI capabilities. Users must connect their wallet and have at least 3 transactions on Monad testnet to access the chat.
 
